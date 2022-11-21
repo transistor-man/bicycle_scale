@@ -1,5 +1,5 @@
 // Functionality in this version
-// * Mapps single cell and displays battery status as custom character.
+// * Measures single LiPo cell voltage and displays battery status as custom character / icon.
 // * Voltage measurement has a proportional filter and is defined under the function battery_measure()
 
 // Notes
